@@ -1,4 +1,4 @@
-### Hi there iNverse- here. 👋
+### Hi there iNverse- here.
 
 []()
 - 🔭 I’m currently serving NS at MHA/HTX as a cyberNSF.
