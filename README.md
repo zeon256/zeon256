@@ -4,4 +4,4 @@
 - 🔭 I’m currently serving NS at MHA/HTX as a CyberNSF.
 - 🌱 I’m currently learning reverse engineering.
 - 📫 How to reach me: me@inve.rs
-- ⚡ Fun fact: I like rust
+- ⚡ Fun fact: I like rust 🦀
