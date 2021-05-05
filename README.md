@@ -5,3 +5,5 @@
 - 🌱 I’m currently learning reverse engineering.
 - 📫 How to reach me: me@inve.rs
 - ⚡ Fun fact: I like rust 🦀
+
+Keybase: https://keybase.io/zeon666
