@@ -6,5 +6,6 @@
 - ⚡ Fun fact: I like the rust 🦀 programming language
 - Currently the maintainer of [lta-rs](https://github.com/lta-rs/lta-rs), [justbus-rs](https://github.com/zeon256/justbus-rs) and [pulau-rs](https://github.com/zeon256/pulau-rs)
 - Prefered editor: Helix + Zellij
+- Main OS: Arch Rolling + MacOS for school
 - Other programming languages: Python, Javascript, Java, Kotlin, C#, C, C++
 
