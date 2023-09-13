@@ -1,7 +1,8 @@
 ### Hi there `zeon256` here.
 
 []()
-- 🔭 I’m currently a year 3 (standing) computer science student studying at NTU Singapore
+- 🔭 I’m currently a year 3 computer science student studying at NTU Singapore
+- 🏫 I'm also on semester exchange @ Boğaziçi University, Istanbul, Türkiye
 - 💼 I've worked at Home Team Science & Technology Agency (HTX) and GovTech
 - 📫 How to reach me: me@inve.rs
 - ⚡ Fun fact: I like the rust 🦀 programming language
