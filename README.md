@@ -8,6 +8,6 @@
 - ⚡ Fun fact: I like the rust 🦀 programming language
 - Currently the maintainer of [lta-rs](https://github.com/lta-rs/lta-rs), [justbus-rs](https://github.com/zeon256/justbus-rs) and [pulau-rs](https://github.com/zeon256/pulau-rs)
 - Prefered editor: Helix + Zellij or VSCode + Dance
-- Main OS: Arch Rolling + MacOS for school
+- Main OS: Arch Rolling (i3 + Custom Kernel with BORE scheduler) + MacOS for school
 - Other programming languages: C++, TypeScript, Javascript, Java, Kotlin, C#, C, Python
 
