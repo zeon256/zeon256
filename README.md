@@ -1,7 +1,7 @@
 ### Hi there `zeon256` here.
 
 []()
-- 🔭 I’m currently a year 3 computer science student studying at NTU Singapore
+- 🔭 I’m currently a year 4 computer science student studying at NTU Singapore
 - 🏫 I'm am doing my professional internship @GovTechSG as a DevOps Engineer
 - 💼 I've worked at Home Team Science & Technology Agency (HTX) and GovTech
 - 📫 How to reach me: me@inve.rs
