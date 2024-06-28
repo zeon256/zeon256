@@ -2,7 +2,7 @@
 
 []()
 - 🔭 I’m currently a year 4 computer science student studying at NTU Singapore
-- 🏫 I'm am doing my professional internship @GovTechSG as a DevOps Engineer
+- 🏫 I'm am doing my professional internship @GovTechSG as a Software Engineer
 - 💼 I've worked at Home Team Science & Technology Agency (HTX) and GovTech
 - 📫 How to reach me: me@inve.rs
 - ⚡ Fun fact: I like the rust 🦀 programming language
