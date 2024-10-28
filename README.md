@@ -2,8 +2,7 @@
 
 []()
 - 🔭 I’m currently a year 4 computer science student studying at NTU Singapore
-- 🏫 I'm am doing my professional internship @GovTechSG as a Software Engineer
-- 💼 I've worked at Home Team Science & Technology Agency (HTX) and GovTech
+- 💼 I've worked at Home Team Science & Technology Agency (HTX) and @GovTechSG
 - 📫 How to reach me: me@inve.rs
 - ⚡ Fun fact: I like the rust 🦀 programming language
 - Currently the maintainer of [lta-rs](https://github.com/lta-rs/lta-rs), [justbus-rs](https://github.com/zeon256/justbus-rs) and [pulau-rs](https://github.com/zeon256/pulau-rs)
