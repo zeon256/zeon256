@@ -29,3 +29,5 @@
 - [chrome-pwd-dumper-rs](https://github.com/zeon256/chrome-pwd-dumper-rs) - 🗑️ Chromium based password dumper for Windows
 - [dllmain-rs](https://github.com/zeon256/dllmain-rs) - A proc macro attribute to generate dllmain
 
+### Other tools
+- [mdt2json](https://github.com/zeon256/mdt2json) - A Markdown Table to JSON transpiler with CSJ + ESM Support
