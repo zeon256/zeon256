@@ -1,11 +1,12 @@
 ## Hi there `zeon256` here.
 
-- 🔭 I’m currently a year 4 computer science student studying at NTU Singapore
+- 🔭 I’m a recent computer science graduate from NTU Singapore
 - 💼 I've worked at Home Team Science & Technology Agency (HTX) as a Security Researcher and @GovTechSG doing ML, DevOps and Software Engineering
 - 📫 How to reach me: me+github@inve.rs
 - Prefered editor: Helix + Zellij or VSCode + Dance
 - Main OS: Arch Linux + MacOS (school/work) 
 - Other programming languages: C++, TypeScript, Javascript, Java, Kotlin, C#, C, Python, Go
+- The acocunts in my website and here are the only accounts I have. There have been attempts at [impersonation](https://www.reddit.com/user/zeon256/) and messages from those persons should be ignored
 
 ## Notable Projects
 
