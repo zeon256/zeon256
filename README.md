@@ -6,7 +6,7 @@
 - Prefered editor: Helix + Zellij or VSCode + Dance
 - Main OS: Arch Linux + MacOS (school/work) 
 - Other programming languages: C++, TypeScript, Javascript, Java, Kotlin, C#, C, Python, Go
-- The acocunts in my website and here are the only accounts I have. There have been attempts at [impersonation](https://www.reddit.com/user/zeon256/) and messages from those persons should be ignored
+- The accounts in my website and here are the only accounts I have. There have been attempts at [impersonation](https://www.reddit.com/user/zeon256/) and messages from those persons should be ignored
 
 ## Notable Projects
 
