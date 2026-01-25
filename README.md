@@ -33,7 +33,7 @@
 ### 🛠️ Tech I Work With
 
 **Daily drivers**  
-Rust · TypeScript / JavaScript · Go · Python
+Rust · TypeScript / JavaScript · Python
 
 **Also comfortable in**  
 C++ · Java · Kotlin · C# · C
