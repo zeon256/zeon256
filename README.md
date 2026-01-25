@@ -1,6 +1,7 @@
 ## Hi there `zeon256` here.
 
-- 🔭 I’m a recent computer science graduate from NTU Singapore
+- 🔭 I’m currently a founding engineer for Haxiom
+- I graduated from NTU Singapore with a BComp in Computer Science
 - 💼 I've worked at Home Team Science & Technology Agency (HTX) as a Security Researcher and @GovTechSG doing ML, DevOps and Software Engineering
 - 📫 How to reach me: me+github@inve.rs
 - Prefered editor: Helix + Zellij or VSCode + Dance
