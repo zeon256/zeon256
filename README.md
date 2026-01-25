@@ -26,8 +26,8 @@
 - 🔭 Currently building things at **Haxiom**
 - 🛠 Former Security Researcher @ **HTX** (Home Team Science & Technology Agency)
 - 🧠 Previously did ML / DevOps / Software Engineering @ **GovTech Singapore**
-- 🐧 Arch Linux + macOS (work/school)  
-- 🧑‍💻 Preferred stack: **Helix + Zellij** • VSCode + Dance extension
+- 🐧 Arch Linux + macOS (work/school) + Windows 11 (CS2 tools develoopment)
+- 🧑‍💻 Preferred editors: Zed, Helix, Antigravity (in order)
 - 🔐 Verified accounts → [Keybase: zeon666](https://keybase.io/zeon666)
 
 ### 🛠️ Tech I Work With
