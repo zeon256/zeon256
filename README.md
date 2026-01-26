@@ -52,8 +52,9 @@ Arch Linux · macOS · Helix · Zellij · VS Code · Git
   </tr>
   
   <!-- Rust: 3 items -->
+  <!-- Rust: 3 personal + 1 contribution -->
   <tr>
-    <td rowspan="3"><strong>Rust</strong></td>
+    <td rowspan="4"><strong>Rust</strong></td>
     <td><a href="https://github.com/lta-rs/lta-rs">lta-rs</a></td>
     <td>Singapore LTA DataMall client — 🚍 public transport data</td>
     <td>Rust</td>
@@ -66,6 +67,11 @@ Arch Linux · macOS · Helix · Zellij · VS Code · Git
   <tr>
     <td><a href="https://github.com/zeon256/dllmain-rs">dllmain-rs</a></td>
     <td>Proc macro attribute to generate DLL entry point (dllmain)</td>
+    <td>Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DoublePrecision/typed-bytes">typed-bytes</a></td>
+    <td><code>no_std</code> + const-first strongly-typed byte units (IEC: KiB/MiB, SI: KB/MB) — prevents unit mix-up bugs; originated from internal Haxiom implementation</td>
     <td>Rust</td>
   </tr>
   
