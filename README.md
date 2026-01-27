@@ -146,9 +146,3 @@ Arch Linux · macOS · Helix · Zellij · VS Code · Git
 - 📫 **Reach me**: `me+github@inve.rs`
 - 🔑 **Verified identities**: [keybase.io/zeon666](https://keybase.io/zeon666)
 - 🐙 All repos → <a href="https://github.com/zeon256?tab=repositories">github.com/zeon256</a>
-
-<div align="center">
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/127-1276589_rust-programming-language-logo.png" width="180" alt="Rust Logo"> -->
-  <br><br>
-  <sub>Made with 💻 and ☕ in Singapore</sub>
-</div>
