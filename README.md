@@ -92,6 +92,19 @@ Arch Linux · macOS · Helix · Zellij · VS Code · Git
     <td>Integer division/modulo via arithmetic strength reduction for C#</td>
     <td>C#</td>
   </tr>
+
+    <!-- Security / Reverse Eng: 1 item -->
+  <tr>
+    <td rowspan="2"><strong>Security / Reverse Eng</strong></td>
+    <td><a href="https://github.com/zeon256/chrome-pwd-dumper-rs">chrome-pwd-dumper-rs</a></td>
+    <td>Chromium-based password dumper for Windows (supports Chrome, Edge, Brave, etc.)</td>
+    <td>Rust</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zeon256/const-secret">const-secret</a></td>
+    <td><code>no_std</code> + compile-time constant encryption library for Rust with pluggable drop strategies and multiple algorithms.</td>
+    <td>Rust</td>
+  </tr>
   
   <!-- Web / TypeScript: 2 items -->
   <tr>
@@ -105,15 +118,7 @@ Arch Linux · macOS · Helix · Zellij · VS Code · Git
     <td>Markdown Table to JSON transpiler with CLI + ESM/CSJ support</td>
     <td>TypeScript</td>
   </tr>
-  
-  <!-- Security / Reverse Eng: 1 item -->
-  <tr>
-    <td><strong>Security / Reverse Eng</strong></td>
-    <td><a href="https://github.com/zeon256/chrome-pwd-dumper-rs">chrome-pwd-dumper-rs</a></td>
-    <td>Chromium-based password dumper for Windows (supports Chrome, Edge, Brave, etc.)</td>
-    <td>Rust</td>
-  </tr>
-  
+    
   <!-- Game / CS2 Tools: 3 items -->
   <tr>
     <td rowspan="3"><strong>Game / CS2 Tools</strong></td>
