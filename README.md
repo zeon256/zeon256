@@ -93,7 +93,6 @@ Arch Linux · macOS · Helix · Zellij · VS Code · Git
     <td>C#</td>
   </tr>
 
-    <!-- Security / Reverse Eng: 1 item -->
   <tr>
     <td rowspan="2"><strong>Security / Reverse Eng</strong></td>
     <td><a href="https://github.com/zeon256/chrome-pwd-dumper-rs">chrome-pwd-dumper-rs</a></td>
