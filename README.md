@@ -36,7 +36,7 @@
 Rust · TypeScript / JavaScript · Python
 
 **Also comfortable in**  
-C++ · Java · Kotlin · C# · C
+C++ · Java · Kotlin · C# · C · C++
 
 **Environments & tools**  
 Arch Linux · macOS · Helix · Zellij · VS Code · Git
