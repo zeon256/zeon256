@@ -51,10 +51,14 @@ Arch Linux · macOS · Helix · Zellij · VS Code · Git
     <th>Language</th>
   </tr>
   
-  <!-- Rust: 3 items -->
-  <!-- Rust: 3 personal + 1 contribution -->
+  <!-- Rust: 4 personal + 1 contribution -->
   <tr>
-    <td rowspan="4"><strong>Rust</strong></td>
+    <td rowspan="5"><strong>Rust</strong></td>
+    <td><a href="https://github.com/zeon256/fast-robots">fast-robots</a></td>
+    <td>Zero-copy <code>robots.txt</code> parser with SIMD-accelerated byte scanning, RFC 9309 access checks, and feature-gated extension metadata</td>
+    <td>Rust</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/lta-rs/lta-rs">lta-rs</a></td>
     <td>Singapore LTA DataMall client — 🚍 public transport data</td>
     <td>Rust</td>
