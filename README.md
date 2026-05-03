@@ -109,9 +109,9 @@ Arch Linux · macOS · Helix · Zellij · VS Code · Git
     <td>Rust</td>
   </tr>
   
-  <!-- Web / TypeScript: 2 items -->
+  <!-- Web / TypeScript: 3 items -->
   <tr>
-    <td rowspan="2"><strong>Web / TypeScript</strong></td>
+    <td rowspan="3"><strong>Web / TypeScript</strong></td>
     <td><a href="https://github.com/zeon256/solid-markdown-wasm">solid-markdown-wasm</a></td>
     <td>CommonMark Markdown renderer for SolidJS using WASM</td>
     <td>Rust + TypeScript</td>
@@ -119,6 +119,11 @@ Arch Linux · macOS · Helix · Zellij · VS Code · Git
   <tr>
     <td><a href="https://github.com/zeon256/mdt2json">mdt2json</a></td>
     <td>Markdown Table to JSON transpiler with CLI + ESM/CSJ support</td>
+    <td>TypeScript</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zeon256/font-trim">font-trim</a></td>
+    <td>Browser-based font subsetter — trim unwanted glyphs and export leaner TTF/OTF/WOFF2 via HarfBuzz WASM</td>
     <td>TypeScript</td>
   </tr>
     
