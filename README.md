@@ -23,7 +23,8 @@
 
 ### 🌱 About Me
 
-- 🔭 Currently building things at **Haxiom**
+- 🔎 Currently looking for new opportunities
+- 🔭 Cofounded **Haxiom**
 - 🛠 Former Security Researcher @ **HTX** (Home Team Science & Technology Agency)
 - 🧠 Previously did ML / DevOps / Software Engineering @ **GovTech Singapore**
 - 🐧 Arch Linux + macOS work + Windows 11 (CS2 tools develoopment)
