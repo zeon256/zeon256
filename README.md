@@ -7,7 +7,6 @@
   <h1>Hey there! I'm zeon256 👋</h1>
   
   <p>
-    <strong>Ex Founding Engineer @ <a href="https://haxiom.io">Haxiom</a></strong><br>
     NTU Singapore — BComp (Computer Science)
   </p>
 
