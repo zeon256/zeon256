@@ -26,7 +26,7 @@
 - 🔭 Cofounded **Haxiom**
 - 🛠 Former Security Researcher @ **HTX** (Home Team Science & Technology Agency)
 - 🧠 Previously did ML / DevOps / Software Engineering @ **GovTech Singapore**
-- 🐧 Arch Linux + macOS work + Windows 11 (CS2 tools develoopment)
+- 🐧 Arch Linux + macOS work + Windows 11 (CS2 tools develoopment) + NixOS (soon, trust me bros I will ditch arch soon)
 - 🧑‍💻 Preferred editors: Zed, Helix
 - 🔐 Verified accounts → [Keybase: zeon666](https://keybase.io/zeon666)
 
@@ -39,7 +39,7 @@ Rust · TypeScript / JavaScript · Python
 C++ · Java · Kotlin · C# · C
 
 **Environments & tools**  
-Arch Linux · macOS · Helix · Zellij · VS Code · Git
+Arch Linux · macOS · Helix · Zellij · VS Code · Git · jj
 
 ### 📦 Notable Projects
 
